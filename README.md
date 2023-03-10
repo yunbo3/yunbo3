@@ -21,5 +21,5 @@
   
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yunbo3&show_icons=true&theme=스타일)
-    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunbo3&layout=compact&theme=tokyonight)]
+ 
 </div>
